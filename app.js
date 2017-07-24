@@ -8,6 +8,7 @@ function presentControllerFunction($timeout) {
     $.get(url, function(data) {
         $timeout(function() {
             vm.electionDates = data.results
+            console.log(data)
         })
     })
 }

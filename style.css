@@ -1,0 +1,58 @@
+body {
+    padding-top: 70px;
+}
+
+.icon {
+    height: 45px;
+    padding-top: 8px;
+}
+
+.jumbotron {
+    background: url("images/votes.png");
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    height: 55vh;
+}
+
+.welcome {
+    text-align: center;
+    margin-top: 70px;
+    font-family: Fredoka One;
+    font-size: 3.5em;
+}
+
+.welcomeText {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 1.1em;
+    border: dotted;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.presentText {
+    font-weight: bold;
+}
+
+.search {
+    font-size: 20px;
+    color: white;
+}
+
+footer {
+    display: block;
+    width: 100vw;
+    height: 90px;
+    background-color: black;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
+    position: absolute;
+    color: white;
+}
+
+.footerText {
+    padding-top: 20px;
+}
