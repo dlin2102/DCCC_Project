@@ -3,8 +3,8 @@ body {
 }
 
 .icon {
-    height: 45px;
-    padding-top: 8px;
+    height: 47px;
+    padding-top: 4px;
 }
 
 .jumbotron {
@@ -37,7 +37,7 @@ body {
 }
 
 .search {
-    font-size: 20px;
+    font-size: 18px;
     color: white;
 }
 
